@@ -1,5 +1,5 @@
-from IncrementalLeraningMLDL.src.resnet import resnet32
-from IncrementalLeraningMLDL.src.resnet_cosine import resnet32 as resnet32_cosine
+from Incremental_Learning_MLDL.src.resnet import resnet32
+from Incremental_Learning_MLDL.src.resnet_cosine import resnet32 as resnet32_cosine
 import torch
 from torch import nn
 import torch.nn.functional as F
